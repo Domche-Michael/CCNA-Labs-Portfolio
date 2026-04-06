@@ -32,6 +32,6 @@ Each folder contains:
 - Configuration explanations
 
 ## 👨‍💻 Author
-Yves Michaël Domche  
+Michaël Domche  
 Networking Student – CCNA Track  
 Ottawa, Canada
