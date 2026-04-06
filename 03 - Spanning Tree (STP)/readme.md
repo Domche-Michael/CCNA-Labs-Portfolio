@@ -1,15 +1,18 @@
 # Spanning Tree Protocol (STP)
 
 ## Objective
-Prevent switching loops and ensure network stability.
+Ensure loop-free and stable Layer 2 networks.
 
 ## Skills
-- STP operation
+- STP / RSTP operation
 - Root bridge election
 - Port roles and states
-- Rapid STP (RSTP)
+
+## Advanced Concepts
+- PortFast & BPDU Guard
+- Loop prevention strategies
+- Convergence optimization
 
 ## Labs
-- Loop prevention
 - Root bridge manipulation
-- PortFast & BPDU Guard
+- Loop detection and prevention
