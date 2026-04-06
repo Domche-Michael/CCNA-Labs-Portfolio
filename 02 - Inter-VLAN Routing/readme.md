@@ -1,13 +1,18 @@
 # Inter-VLAN Routing
 
 ## Objective
-Enable communication between VLANs using Layer 3 devices.
+Enable communication between VLANs in enterprise environments.
 
 ## Skills
 - Router-on-a-Stick (ROAS)
 - Subinterfaces configuration
-- VLAN routing via router
+- Default gateway design
+
+## Advanced Concepts
+- DHCP relay (ip helper-address)
+- Integration with Layer 2 switching
+- Multi-VLAN enterprise routing design
 
 ## Labs
-- ROAS configuration
-- Inter-VLAN communication test
+- Inter-VLAN communication
+- DHCP relay for multiple VLANs
