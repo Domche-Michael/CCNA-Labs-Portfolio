@@ -10,7 +10,7 @@ Enable internal networks to access external resources.
 
 ## Advanced Concepts
 - ACL-based NAT filtering
-- Public server publishing (Static NAT → 7.7.7.7)
+- Public server publishing 
 - Address summarization in NAT rules
 
 ## Labs
