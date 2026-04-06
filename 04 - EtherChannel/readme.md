@@ -1,13 +1,15 @@
 # EtherChannel
 
 ## Objective
-Increase bandwidth and redundancy between switches.
+Provide redundancy and increase bandwidth.
 
 ## Skills
-- LACP configuration
-- PAgP configuration
-- Port-channel setup
+- LACP and PAgP configuration
+- Port-channel interface
+
+## Advanced Concepts
+- Load balancing
+- Redundant switching links
 
 ## Labs
-- LACP EtherChannel
-- Load balancing verification
+- LACP EtherChannel setup
