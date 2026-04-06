@@ -1,14 +1,15 @@
-# VLAN & Switching Labs
+# VLAN & Switching
 
 ## Objective
-Configure VLANs and segment network traffic.
+Segment the network using VLANs to improve performance and security.
 
-## Skills Learned
+## Skills
 - VLAN creation
-- Port assignment
-- Trunk configuration
-
-## Labs Included
-- Basic VLAN setup
+- Access port configuration
 - Trunking (802.1Q)
 - Native VLAN configuration
+
+## Labs
+- Basic VLAN setup
+- Multi-switch VLAN communication
+- Trunk troubleshooting
